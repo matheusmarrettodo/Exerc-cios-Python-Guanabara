@@ -1,0 +1,7 @@
+n=(int(input('digite um número:')))
+d=(n*2)
+print('O DOBRO DE {} É {}!!!'.format(n,d))
+t=(n*3)
+print('E O TRIPLO É {}!!!'.format(t))
+rq=(n**(1/2))
+print('E A RAIZ QUADRADA É {}!!!'.format(rq))
